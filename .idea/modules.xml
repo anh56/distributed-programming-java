@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Git.iml" filepath="$PROJECT_DIR$/.idea/Git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniproject_0/miniproject_0.iml" filepath="$PROJECT_DIR$/miniproject_0/miniproject_0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniproject_1/miniproject_1.iml" filepath="$PROJECT_DIR$/miniproject_1/miniproject_1.iml" />
+    </modules>
+  </component>
+</project>
